@@ -567,8 +567,8 @@ Error generating stack: `+i.message+`
   justify-content: space-between;
   gap: 16px;
 `,dS=M.div`
-  width: 42px;
-  height: 42px;
+  width: 40px;
+  height: 40px;
   flex: none;
   border-radius: 9px;
   overflow: hidden;
@@ -683,7 +683,7 @@ Error generating stack: `+i.message+`
   font-weight: 400;
 `,Yo=M.div`
   & + & {
-    margin-top: 22px;
+    margin-top: 26px;
   }
 `,SS=M.span`
   display: inline-flex;
@@ -720,7 +720,7 @@ Error generating stack: `+i.message+`
 `;const kS=M.div`
   border: 1px solid var(--color-neutral-separator-subtle);
   border-radius: 8px;
-  padding: 14px;
+  padding: 16px;
 `,CS=M.div`
   display: flex;
   align-items: center;
